@@ -29,5 +29,5 @@ I see two interesting things that could emerge thanks to this method:
 - install a basic OS on a SCSI disk without having the installation disks
 
 # References
-- [My Original post in French](https://www.scolan.net/utilisation-du-diagnostic-mode-sur-macintosh-se-30/) [en](https://www-scolan-net.translate.goog/utilisation-du-diagnostic-mode-sur-macintosh-se-30/?_x_tr_sl=fr&_x_tr_tl=en)
+- [My Original post in French](https://www.scolan.net/utilisation-du-diagnostic-mode-sur-macintosh-se-30/) ([google translated to english](https://www-scolan-net.translate.goog/utilisation-du-diagnostic-mode-sur-macintosh-se-30/?_x_tr_sl=fr&_x_tr_tl=en))
 - [Details about the Diagnostic mode on mac68k.info](https://mac68k.info/wiki/display/mac68k/Diagnostic+Mode) 
