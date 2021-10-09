@@ -7,8 +7,8 @@ While researching technical details about the Macintosh SE/30, I discovered on [
 An easy way to access this mode is to use the mac's interrupt button (the “Programmer's Interrupt switch”) before the computer starts the OS.
 
 Beyond the possibilities of testing the hardware of the machine, this mode has two very interesting elements:
-- the "* D" command allowing to drop data, and therefore also code, in the memory of the target computer
-- the "* G" command to launch the execution of the code on the target computer at a given address
+- the "*D" command allowing to drop data, and therefore also code, in the memory of the target computer
+- the "*G" command to launch the execution of the code on the target computer at a given address
 
 These commands are also highlighted in the section "TechStep Requests CPUID on IIsi", on the page of mac68k.info, where the TechStep sends a small program to retrieve the CPUID of the target.
 
