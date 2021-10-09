@@ -1,8 +1,8 @@
 # What is stm_send
-stm_send is a tool to send and execute binary data to old 68k macs using the Diagnostic mode
+stm_send is a tool to send and execute binary data from a modern computer to old 68k macs using their "Diagnostic mode" through the "Modem" serial port.
 
 # Diagnostic mode
-While researching technical details about the Macintosh SE/30, I discovered on [mac68k.info](https://mac68k.info/wiki/display/mac68k/Diagnostic+Mode) that there is a "Diagnostic Mode" on some 68k Macintoshes. This mode is used by TechStep, a device for testing the various components of a Macintosh.
+While researching technical details about the Macintosh SE/30, I discovered on [mac68k.info](https://mac68k.info/wiki/display/mac68k/Diagnostic+Mode) that there is a "Diagnostic Mode" available on the "Modem" serial port on some 68k Macintoshes. This mode is used by TechStep, a device for testing the various components of a Macintosh.
 
 An easy way to access this mode is to use the mac's interrupt button (the “Programmer's Interrupt switch”) before the computer starts the OS.
 
@@ -18,7 +18,7 @@ It would be possible to speed up the transfers by doing it in two stages: first 
 
 # Usage
 To upload the binary to the mac, after compilation, the procedure is as follows:
-1. connect the serial port of the mac "Modem" to a computer
+1. connect the serial port of the mac "Modem" to a computer using a null modem cable
 2. turn on the mac
 3. when the mouse cursor appears press the interrupt button
 4. run the stm_send program with apropriate parameters
