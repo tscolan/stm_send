@@ -23,6 +23,9 @@ To upload the binary to the mac, after compilation, the procedure is as follows:
 3. when the mouse cursor appears press the interrupt button
 4. run the stm_send program with apropriate parameters
 
+# Example use
+You can find a sample program which can be run on a Macintosh SE/30 through this method [here](https://github.com/tscolan/stm_send_example).
+
 # Future work
 I see two interesting things that could emerge thanks to this method:
 - create boot floppies with only one machine without OS
