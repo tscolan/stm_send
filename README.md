@@ -18,10 +18,10 @@ It would be possible to speed up the transfers by doing it in two stages: first 
 
 # Usage
 To upload the binary to the mac, after compilation, the procedure is as follows:
-1 connect the serial port of the mac "Modem" to a computer
-2 turn on the mac
-3 when the mouse cursor appears press the interrupt button
-4 run the stm_send program with apropriate parameters
+1. connect the serial port of the mac "Modem" to a computer
+2. turn on the mac
+3. when the mouse cursor appears press the interrupt button
+4. run the stm_send program with apropriate parameters
 
 # Future work
 I see two interesting things that could emerge thanks to this method:
